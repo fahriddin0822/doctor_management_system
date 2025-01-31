@@ -141,7 +141,7 @@ const Dashboard = () => {
             {/* Image Upload */}
             <div className="space-y-2 w-1/2">
               <label className="block text-sm font-medium text-gray-700 text-center">
-                Upload Images
+                Upload Images of test( Rentgen, Tomography and etc )
               </label>
               <div className="mt-1 p-6 border-2 border-dashed border-gray-300 rounded-lg">
                 <div className="text-center">
